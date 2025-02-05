@@ -1,1 +1,1 @@
-# dashboard_ticket_revenue
+# dashboard-revenue
