@@ -32,7 +32,7 @@
 
 ## Разбор чартов
 ### Как подписать недельные максимумы
-![Чарт 1](images/chart_1.png)
+![Чарт 1](images/chart-1.png)
 ```sql
 IF 
     MAX([sum_value] WITHIN WEEK([datetrunc_date])) --Оконка для вычисления максимального дохода за неделю
