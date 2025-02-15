@@ -1,1 +1,1 @@
-Как сделать дашборд на DataLens
+![Дашборд](images/dash.png)
