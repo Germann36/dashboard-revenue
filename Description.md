@@ -2,7 +2,7 @@
 ![Дашборд](images/dash.png)
 
 ## Техническое описание
-![модель данных](images/olap.png) 
+![Модель данных](images/olap.png) 
 
 - Дашборд разработан в облачной BI-системе **Yandex DataLens**.
 &nbsp;
