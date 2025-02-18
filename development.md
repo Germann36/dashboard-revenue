@@ -1,6 +1,7 @@
 # Разработка дашборда "Продажи билетов на выставки: Q3 2023"
 ![Дашборд](images/dash-1.png)
 [Дашборд в DataLens](https://datalens.yandex/g9h5s1o94olc2)
+
 &nbsp;
 ## Техническое описание
 ![Модель данных](images/olap-1.png) 
